@@ -14414,8 +14414,8 @@ p.white {
 /*-- //toggle switch --*/
 /*-- dark and light mode styling --*/
 .mode-container {
-  width: 24px;
-  height: 24px;
+  width: 6px;
+  height: 6px;
   padding: 1px 0;
 }
 
